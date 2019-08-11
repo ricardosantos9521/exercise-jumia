@@ -1,0 +1,24 @@
+.list{
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list td{
+    padding-left: 5px;
+    padding-right: 20px;
+}
+
+.pagination{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.pagination label{
+    padding: 20px;
+}
+
+.hidden{
+    visibility: hidden;
+}
